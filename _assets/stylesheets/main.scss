@@ -10,6 +10,7 @@ $fontheadings: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $text: #21272d;
 $textmuted: #848484;
 $accent: #2077b2;
+$green: #3cc73c;
 
 
 /* IMPORT CSS FILES */
@@ -20,3 +21,4 @@ $accent: #2077b2;
 @import "icons";
 @import "syntax";
 @import "responsive";
+@import "colors";
